@@ -26,3 +26,7 @@ Yamachan (X: [xr_ymchn](https://x.com/xr_ymchn))
 ## License
 
 BSD Zero Clause License
+
+## Related Projects
+
+[OscPoser by JRF-2018](https://github.com/JRF-2018/osc_poser) is a separate project for VRChat with a similar name. It is not affiliated with this project.
